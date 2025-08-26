@@ -24,7 +24,7 @@ space_invaders_js/
 ## 🔧 Instalación y uso local  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/<tu-usuario>/space_invaders_js.git
+   git clone https://github.com/k4ploc/space_invaders_js.git
    ```
 Abre el archivo index.html en tu navegador.
 
